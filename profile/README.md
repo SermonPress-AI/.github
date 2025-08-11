@@ -6,9 +6,7 @@
 
 ## 🌟 Mission  
 
-SermonPress AI exists to help **churches** share God’s Word more effectively using **AI workflow automation**.  
-We equip local congregations with **open-source tools**—including [n8n](https://n8n.io/) workflows and WordPress plugins—  
-that make it easier to **publish, distribute, and repurpose sermons** across:  
+SermonPress AI exists to help **churches** share God’s Word more effectively using **AI workflow automation**. We equip local congregations with **open-source tools**—including [n8n](https://n8n.io/) workflows and WordPress plugins—that make it easier to **publish, distribute, and repurpose sermons** across:  
 
 - 🖥️ Church websites  
 - 🔍 Search engines  
@@ -20,8 +18,7 @@ that make it easier to **publish, distribute, and repurpose sermons** across:
 
 SermonPress AI includes:  
 
-- 🤖 **n8n workflows** for sermon automation  
-  _(audio transcription, publishing pipelines, social sharing, and more!)_  
+- 🤖 **n8n workflows** for sermon automation _(audio transcription, publishing pipelines, social sharing, and more!)_  
 - 🌐 **WordPress plugins** for website integration & approval workflows  
 - 📚 **Documentation, onboarding guides, and educational resources** for both churches and developers  
 
@@ -39,12 +36,10 @@ We’ve designed SermonPress AI to be:
 
 ## 🙌 Join the Mission  
 
-We believe technology should **serve the church**, not the other way around.  
-Whether you’re a developer, pastor, media volunteer, or curious learner—  
-you’re welcome to contribute, test, or use SermonPress AI in your own ministry.  
+We believe technology should **serve the church**, not the other way around.  Whether you’re a developer, pastor, media volunteer, or curious learner— you’re welcome to contribute, test, or use SermonPress AI in your own ministry.  
 
 📖 _“How beautiful are the feet of those who bring good news!”_ – Romans 10:15  
 
 ---
 
-**🔗 Learn more & get involved:** [Your Website or Docs Link Here]  
+**🔗 Learn more & get involved:** **[SermonPress AI Website](https://sermonpress.ai/)**
